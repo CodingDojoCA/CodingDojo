@@ -12,7 +12,7 @@ Kata FizzBuzz (kod -> ./FizzBuzz/)
 
 16.05.2014
 
-Kata StringCalculator (kod -> ? //TODO)
+Kata StringCalculator (kod -> ./StringCalculator/)
 
 
 
