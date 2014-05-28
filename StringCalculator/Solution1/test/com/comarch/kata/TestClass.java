@@ -2,7 +2,6 @@ package com.comarch.kata;
 
 import static org.junit.Assert.*;
 
-import org.junit.Ignore;
 import org.junit.Test;
 
 public class TestClass {
@@ -10,7 +9,6 @@ public class TestClass {
 	Calculator calculator = new Calculator();
 
 	@Test
-	@Ignore
 	public void isEmpty() throws Exception {
 		assertTrue(checker.isEmpty(""));
 	}
