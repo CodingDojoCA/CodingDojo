@@ -78,7 +78,7 @@ public class StringCalculatorTest {
 	
 	@Test
 	public void shouldReplace2() {
-		assertEquals("\\1\\1\\1", "111".replaceAll("1", "\\2"));
+		assertEquals("222", "111".replaceAll("1", "\\2"));
 	}
 
 }
